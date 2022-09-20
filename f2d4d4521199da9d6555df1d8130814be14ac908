@@ -16,6 +16,92 @@
       "message": "Hey Thomas, can you please review my code (first version)?\nLet me know!",
       "revId": "f2d4d4521199da9d6555df1d8130814be14ac908",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "72eb6061_76976ea4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020518
+      },
+      "writtenOn": "2022-09-20T19:28:09Z",
+      "side": 1,
+      "message": "Good work! However, there are a few fixes that need to be made. Please review the comments I made to improve the code.",
+      "revId": "f2d4d4521199da9d6555df1d8130814be14ac908",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "90ab4471_f715a68c",
+        "filename": "helloworld.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1020518
+      },
+      "writtenOn": "2022-09-20T19:28:09Z",
+      "side": 1,
+      "message": "This should be System.in instead of System.out.",
+      "range": {
+        "startLine": 6,
+        "startChar": 40,
+        "endLine": 6,
+        "endChar": 43
+      },
+      "revId": "f2d4d4521199da9d6555df1d8130814be14ac908",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7fe07058_f808acac",
+        "filename": "helloworld.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1020518
+      },
+      "writtenOn": "2022-09-20T19:28:09Z",
+      "side": 1,
+      "message": "Did you mean to write first name instead of first?",
+      "range": {
+        "startLine": 7,
+        "startChar": 33,
+        "endLine": 7,
+        "endChar": 38
+      },
+      "revId": "f2d4d4521199da9d6555df1d8130814be14ac908",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "46e9ec7a_53f91c39",
+        "filename": "helloworld.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1020518
+      },
+      "writtenOn": "2022-09-20T19:28:09Z",
+      "side": 1,
+      "message": "These variables were not defined, instead use fname and lname respectively. Also, there is missing a semicolon.",
+      "range": {
+        "startLine": 14,
+        "startChar": 45,
+        "endLine": 14,
+        "endChar": 51
+      },
+      "revId": "f2d4d4521199da9d6555df1d8130814be14ac908",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
