@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9ffdc234_34607101",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019484
+      },
+      "writtenOn": "2022-09-20T19:12:54Z",
+      "side": 1,
+      "message": "Hey Thomas, can you please review my code (first version)?\nLet me know!",
+      "revId": "f2d4d4521199da9d6555df1d8130814be14ac908",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
