@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "581771af_9794c728",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019484
+      },
+      "writtenOn": "2022-10-02T19:51:11Z",
+      "side": 1,
+      "message": "Thank you for suggestions \u0026 remarks. I fixed all bugs regarding the code!\n",
+      "revId": "03c76b227bdfc75beb296cbc8353d54e63adb6ff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
